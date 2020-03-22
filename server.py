@@ -1,3 +1,5 @@
+# pip install Flask-SQLAlchemy flask-marshmallow marshmallow-sqlalchemy marshmallow
+
 from flask import render_template
 import connexion
 
